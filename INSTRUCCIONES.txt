@@ -1,0 +1,10 @@
+HSE SCAN EAO - INSTALACION EN CELULAR
+1. Crear cuenta en github.com.
+2. Crear repositorio PUBLICO hse-scan-eao (solo para piloto, SIN datos personales).
+3. Subir index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png a la RAIZ del repositorio.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Abrir la URL HTTPS publicada en Chrome Android o Safari iPhone.
+6. Android: menu > Instalar aplicacion o Agregar a pantalla principal. iPhone: Compartir > Anadir a pantalla de inicio.
+7. Probar con DNI ficticios 12345678 y 11112222.
+
+IMPORTANTE: piloto LOCAL, sin sincronizacion entre celulares ni cuentas seguras. No usar padrones reales. La camara requiere HTTPS y el lector externo requiere conexion inicial. Los PDF417/QR complejos necesitan validacion.
